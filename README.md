@@ -8,3 +8,4 @@ These open-source frameworks are mostly focused on writing, generating and synth
 - 🎛 [signalflow](signalflow): real-time sound synthesis, processing and DSP
 - 🎹 [AbletonOSC](AbletonOSC): control [Ableton Live](https://www.ableton.com/en/shop/live/) with OpenSoundControl
 - ⚡ [pylive](pylive): connects to AbletonOSC to control [Ableton Live](https://www.ableton.com/en/shop/live/) direct from Python scripts 
+- ⚛ [python-supercollider](python-supercollider): control the [SuperCollider](https://supercollider.github.io/) synthesis engine from Python
