@@ -1,6 +1,6 @@
 ### ideoforms / Daniel Jones
 
-I am a UK-based artist-researcher, interested in algorithmic composition, sonification, systems music, and spatial sound installations. 🎼
+I am a UK-based artist-researcher, interested in algorithmic composition, sonification, systems music, and spatial sound installations.
 
 These open-source frameworks are mostly focused on writing, generating and synthesizing sound, primarily with Python. 🐍🔊
 
