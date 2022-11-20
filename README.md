@@ -1,8 +1,8 @@
-### ideoforms / Daniel Jones
+### ideoforms / Daniel John Jones
 
 I am a UK-based artist-researcher, interested in algorithmic composition, sonification, systems music, and spatial sound installations.
 
-These open-source frameworks are mostly focused on generating and interacting with sound, primarily with Python. 🐍🔊
+These open-source frameworks are mostly focused on generating and interacting with sound, primarily via Python. 🐍🔊
 
 - 🎵 [isobar](https://github.com/ideoforms/isobar): generate and manipulate musical patterns and control sequences, outputting MIDI, OSC, or MIDI files
 - 🎛 [signalflow](https://github.com/ideoforms/signalflow): real-time sound synthesis, processing and DSP
