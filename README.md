@@ -7,5 +7,5 @@ As part of my practice, I develop a number of open-source frameworks that are fo
 - 🎵 [isobar](https://github.com/ideoforms/isobar): generate and manipulate musical patterns and control sequences, outputting MIDI, OSC, or MIDI files
 - 🎛 [signalflow](https://github.com/ideoforms/signalflow): real-time sound synthesis, processing and DSP
 - 🎹 [AbletonOSC](https://github.com/ideoforms/AbletonOSC): enables control of [Ableton Live](https://www.ableton.com/en/shop/live/) with OpenSoundControl
-- 🔌 [pylive](https://github.com/ideoforms/pylive): connects to AbletonOSC to control [Ableton Live](https://www.ableton.com/en/shop/live/) direct from - - Python scripts 
+- 🔌 [pylive](https://github.com/ideoforms/pylive): connects to AbletonOSC to control [Ableton Live](https://www.ableton.com/en/shop/live/) directly from Python scripts 
 - 🔊 [python-supercollider](https://github.com/ideoforms/python-supercollider): control the [SuperCollider](https://supercollider.github.io/) synthesis engine from Python
